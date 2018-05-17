@@ -1,0 +1,1 @@
+Le coût d'un antivol est d'environ 45€ / pièce Les antivols sont collés au dos de la tablette, au milieu juste en dessous de la caméra. C'est important car la tablette une fois posé à plat repose sur cette pièce métallique est c'est le meilleur endroit pour qu'elle ne soit pas trop bancale. 
