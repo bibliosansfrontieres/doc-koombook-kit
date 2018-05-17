@@ -13,4 +13,4 @@ This flexible kit can contain various type of materials and tools.
 * an external wifi antenna to extend wifi range and user connected
 * a 3G/4G kit to connect the KoomBook to Internet
 
-The following section will discribe what can be use along this flight case. 
+The following section will discribe the material seen above
