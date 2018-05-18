@@ -10,7 +10,7 @@ The flightcase is build with the POLYTCASE® technology.
 >
 > POLYTCASES® are also up to 3 times lighter than traditional cases. Insured savings on any transportation and in  particular by air. 
 
-source : http://www.jpemball.fr
+source : [J.P'emBall](http://www.jpemball.fr)
 
 We use 4 models to fit our needs with different customization. 
 
@@ -25,6 +25,10 @@ We use 4 models to fit our needs with different customization.
 
  
 
+------
+
+
+
 | **Flight-case 2 :**   | panneaux en polycarbonate noir alvéolaire semi-brillant, ossature en profilés aluminium |
 | --------------------- | ------------------------------------------------------------ |
 | poignées              | 2 poignées encastrées + 1 télescopique de surface dédoublante + 2 roulettes d’angle |
@@ -34,7 +38,11 @@ We use 4 models to fit our needs with different customization.
 | Dimension intérieures | 51 x 43 x 35 (26+8) cm [Longueur x largeur x Hauteur]        |
 | Weight                | 9 kg (empty) - 16kg (loaded)                                 |
 
- 
+  
+
+------
+
+
 
 | **Flight-case 3 :**   | panneaux en polycarbonate noir alvéolaire semi-brillant, ossature en profilés aluminium |
 | --------------------- | ------------------------------------------------------------ |
@@ -45,7 +53,11 @@ We use 4 models to fit our needs with different customization.
 | Dimension intérieures | 72 x 43 x 35 (26+8) cm [Longueur x largeur x Hauteur]        |
 | Weight                | 14 kg (empty) - 25kg (loaded)                                |
 
- 
+  
+
+------
+
+
 
 | **Flight-case 4 :**   | panneaux en polycarbonate noir alvéolaire semi-brillant, ossature en profilés aluminium |
 | --------------------- | ------------------------------------------------------------ |
