@@ -1,13 +1,31 @@
+![Dell](dell.png)
+
+Selected laptops that will fit in the flightcases, 2 models are available :
+* With french keyboard :
 
 
-Aucun ordinateur n'a encore été sélectionné, il faut trouver quelque chose qui puisse entrer facilement dans le flightcase…
+    Vostro 15 3568
+    Size : 15.6"
+    Screen resolution : 1366 x 768 (HD)
+    CPU : Intel Core i3 (6th gen) 6006U / 2.2 GHz / 3 Mo Cache
+    RAM : 4 Gb (1 x 4 Gb) DDR4 SDRAM 2400 Mhz SO DIMM
+    Hard Disk Drive : 500 Gb HDD / 5400t/min
+    Optical Drive : DVD+RW
+    Graphic card : Intel HD Graphics 520
+    Connectivity :
+        - 2 x USB 3.0
+        - USB 2.0
+        - Gigabit LAN
+        - HDMI
+        - VGA
+        - Mic/headphone jack combo
+    Operating System : Windows 10 pro 64bit French + Edubuntu 16.04 (dual boot)
 
-Il faut prendre en compte également que ces ordinateurs ne se brancheront pas directement sur le module de recharge délivrant du 5V pour les tablettes. Il faudra donc prévoir dans la flightcase un système électrique adapté, c'est à dire.
+* With US keyboard :
 
-    Arrivé électrique de la prise IEC en façade de la flightcase
-    A l'intérieur
-        un bloc de prise 220V connecté sur la prise IEC
-        un cordon d'alimentation 220V du module de recharge vers le bloc multiprise
-        les blocs d'alimentation des ordinateurs vers le bloc multiprise
+If not specified, same as above.
 
 
+    RAM : 8Gb
+    Hard Disk Drive : 256 Gb M.2 SATA SSD Class 20
+    Operating System : Windows 10 pro 64bit US + Edubuntu 16.04 (dual boot)
