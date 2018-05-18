@@ -14,7 +14,7 @@ It is made of: several piece of hardware to provide, electrical autonomy, storag
 - 1 wifi dongle to create the hot spot
 - 1 wifi dongle to bridge the KoomBook to an existing wifi hot spot (connected to Internet)
 
- **How does it work**
+**How does it work**
 
 - The KoomBook emits a close-range Wi-fi signal (up to 50m).
 - Users can connect to the Wi-fi with a wide range of devices  (telephone, tablet or computer).
