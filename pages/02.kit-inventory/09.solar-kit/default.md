@@ -8,7 +8,7 @@ Two solar kit can be used along the KoomBook kit. It enable it to work for a lon
 * The 65w kit is adapted to extend the battery life of the KoomBook plus 3 or 4 tablets
 
 |  | 20w kit | 65w kit |
-| :---: | :--- | :--- |
+| :---- | :--- | :--- |
 | Charger battery from main (220v/110v) power outlet | yes, with a USB charger | yes, provided with kit |
 | Charging time through main power | around 6 hours | around 6 hours |
 | Charging time through solar panel | around 6 hours, depending on sun coverage | NA |
@@ -21,35 +21,35 @@ Two solar kit can be used along the KoomBook kit. It enable it to work for a lon
 
 ### 20W solar kit
 
-* Panneau solaire pliable 20W avec cellules au silicium monocristallin
-  * 2 sorties USB5V 2,1A
-  * Format 78x26x0,2cm
-  * poids 590g
+* 20W Foldable Solar Panel with Monocrystalline Silicon Cells
+  * 2 USB 5V - 2,1A output
+  * Size :  78x26x0,2cm
+  * Weight : 590g
 
-* Batterie Lithium-Ion 8Ah-3,7V 29Wh
-  * 2 sorties USB 2,1A
-  * Format 14x7,5x1,7cm
-  * poids 200g
+* Lithium-Ion battery 8Ah - 3,7V 29Wh
+  * 2 USB 2,1A output
+  * Size : 14x7,5x1,7cm
+  * Weight : 200g
 
 ![](chargeur-solaire-appareil-photo-video.jpg)  ![](chargeur-solaire-appareil-photo-video2.jpg)
 
-### 65w solar kit
+### 65W solar kit
 
-* Panneau solaire pliable 65W avec cellules au silicium monocristallin
-  * 1 sortie USB5V 2,1A
-  * 1 sortie DC15V 4,33A
-  * Format 112x60x0,2cm
-  * poids 1830g
-* Batterie Lithium-Polymer 50Ah-3,7V 185Wh
-  * 2 sorties USB5V 3A
-  * 1 sortie TypeC5V 3,5A
-  * 1 sortie DC réglable 5V à 20V
-  * Format 19,5x15x2,8cm
-  * poids 1,155kg
-  * Livré avec 
-    * 1 chargeur secteur
-    * 1 câble de sortie DC
-    * 24 embouts pour appareils numériques et ordinateurs portables
+* 65W Foldable Solar Panel with Monocrystalline Silicon Cells
+  * 1 USB 5V 2,1A output
+  * 1 DC 15V 4,33A output
+  * Size : 112x60x0,2cm
+  * Weight : 1830g
+* Lithium-Polymer battery 50Ah - 3,7V 185Wh ([Read the manuel](UPB185-manuel.pdf))
+  * 2 USB 5V - 3A output
+  * 1 TypeC 5V - 3,5A output
+  * 1 DC adjustable 5V to 20V output
+  * Size : 19,5x15x2,8cm
+  * Weight : 1,155 kg
+  * Delivered with
+    * 1 main supply
+    * 1 DC cable
+    * 24 connectors for differents of devices
 
 ![](chargeur-solaire-ordinateur.jpg) ![](chargeur-solaire-ordinateur2.jpg) ![](chargeur-solaire-ordinateur3.jpg)
 
