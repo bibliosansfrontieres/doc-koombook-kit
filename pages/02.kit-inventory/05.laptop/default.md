@@ -3,6 +3,7 @@
 Selected laptops that will fit in the flightcases, 2 models are available :
 * With french keyboard :
 
+**Dell**
 
     Vostro 15 3568
     Size : 15.6"
@@ -29,3 +30,4 @@ If not specified, same as above.
     RAM : 8Gb
     Hard Disk Drive : 256 Gb M.2 SATA SSD Class 20
     Operating System : Windows 10 pro 64bit US + Edubuntu 16.04 (dual boot)
+
