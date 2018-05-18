@@ -1,11 +1,25 @@
-Le KoomBook est un appareil fonctionnant sur batterie et diffusant des contenus vidéos, textes, images, cours en ligne, à l'aide d'un hotspot wifi.
+---
+title: 'The KoomBook'
+---
 
-Une interface web intégrée permet à quiconque possédant un ordinateur, une tablette ou un smartphone de s'y connecter et de naviguer à travers les contenus disponible.
+KOOMBOOK: a portable offline/online server: The KoomBook is a battery-operated device that displays videos, documents, images and offline websites using a WiFi hotspot.
 
-Cet outil permet à des populations ne disposant d'aucune connexion Internet d'accéder malgré tout à des ressources numériques. Il a par exemple été déployé en Côte d'Ivoire, au Cameroun, au Sénégal, etc.
+It is made of: several piece of hardware to provide, electrical autonomy, storage, wifi capability
 
-Les ressources numériques installées sur le Koombook sont issues de projets libres (wikipedia, kan academy, etc.) et présentées par un logiciel libre lui aussi, ideascube.
+* A single board computer (1Ghz dual core processor and 1GB of RAM) to run an operating system. 
 
-L'objectif de cette documentation est de présenter étape par étape l'assemblage d'un KoomBook
+- Linux stored on a SD card and plugged in the board. 
+- An SSD drive to store the data. 
+- The board includes a Lipo battery charger that is able to automatically regulate the battery charge and also give enough power to the board. 
+- 1 wifi dongle to create the hot spot
+- 1 wifi dongle to bridge the KoomBook to an existing wifi hot spot (connected to Internet)
 
-http://assemblage-koombook.doc.bibliosansfrontieres.org/fr
+ **How does it work**
+
+- The KoomBook emits a close-range Wi-fi signal (up to 50m).
+- Users can connect to the Wi-fi with a wide range of devices  (telephone, tablet or computer).
+- Users easily navigate the server through any existing web browser (see IdeasCube below)
+- Users can browse content as well as download and upload their own content to be shared.
+- When the KoomBook is connected to the internet, it will update all locally created content to the cloud.
+
+[Build a KoomBook on your own](http://assemblage-koombook.doc.bibliosansfrontieres.org/fr)
