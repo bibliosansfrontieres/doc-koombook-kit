@@ -2,6 +2,8 @@
 title: 'Kit inventory'
 ---
 
+
+
 This flexible kit can contain various type of materials and tools. 
 
 * one KoomBook
@@ -14,3 +16,7 @@ This flexible kit can contain various type of materials and tools.
 * a 3G/4G kit to connect the KoomBook to Internet
 
 The following sections will discribe the material seen above
+
+![](20180518_103417.jpg)
+
+![](flightcase.jpg)

@@ -14,6 +14,5 @@ media_order: P1060887.JPG
 
 * The Koombook kit has been designed to resist high temperature and dust.
 
-![](P1060887.JPG) 
 
-![](/home/florian/Téléchargements/20180518_103507.jpg)
+![](20180518_103507.jpg)
