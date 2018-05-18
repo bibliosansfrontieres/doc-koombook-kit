@@ -22,6 +22,7 @@ Connectivity :
         - VGA
         - Mic/headphone jack combo
 Operating System : Windows 10 pro 64bit French + Edubuntu 16.04 (dual boot)
+Size : 380x270x27mm
 ```
 
 * With US keyboard :
