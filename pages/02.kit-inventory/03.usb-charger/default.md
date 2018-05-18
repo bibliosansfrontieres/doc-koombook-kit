@@ -1,10 +1,14 @@
+---
+title: '10 ports USB charger'
+---
 
+The USB charger is 220V -> 5V converter that is able to charge up to 10 device at the same time. 
 
-Le module de recharge est un convertisseur 220V → 5V pour recharger en masse les tablettes. Le coût de l'équipement est de 157€ TTC Voici la fiche excel du budget : budget_module_de_recharge.xlsx
+* Imput power AC 110V/220V - 1.68A
+* Output power DC 5V 2.4A * 10
+* Size : 156 x 109 x 33 mm
+* Weight : 465 g
 
-La création du module de recharge est assez artisanale pour le moment, Adrien fait le montage de A à Z. Afin d’accélérer cette phase qui est assez chronophage, nous avons besoins d'avoir un boîtier plastique prédécoupé aux dimensions des prises USB.
+The maximum output intensity from each port is around 2.4A 
 
-La Tôlerie plastique est une entreprise créant des boitiers plastique sur mesure. Elle pourrait facilement créer un prototype de ce boitier avec les bonnes ouvertures et les colonnettes.
-
-Adrien à fait la demande d'un devis, la discussion est en cours.
-
+Main supplyer : [Abylon](http://www.abylon.fr/)
