@@ -22,7 +22,7 @@ Connectivity :
         - VGA
         - Mic/headphone jack combo
 Operating System : Windows 10 pro 64bit French + Edubuntu 16.04 (dual boot)
-Size : 380x270x27mm
+Size : 380x260x24mm
 ```
 
 * With US keyboard :
@@ -35,3 +35,4 @@ Hard Disk Drive : 256 Gb M.2 SATA SSD Class 20
 Operating System : Windows 10 pro 64bit US + Edubuntu 16.04 (dual boot)
 ```
 
+[See official website](http://www.dell.com/fr-fr/work/shop/les-ordinateurs-portables-dell/vostro-15-3000/spd/vostro-15-3568-laptop)
