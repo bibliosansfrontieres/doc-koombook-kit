@@ -13,7 +13,7 @@ The room must be in the darkness for a good experience
 
 We use the [LG PH30JG](http://www.lg.com/fr/video/lg-PH30JG-videoprojecteur)  
 
-![](/home/florian/Téléchargements/LD0004685809_2.jpg)
+![](LD0004685809_2.jpg)
 
 ## Bigger & brighter
 
@@ -23,4 +23,4 @@ This equipement is especially handy for class, cinema projection, etc.
 
 We use the [CANON LV-WX320](https://www.canon-europe.com/for_home/product_finder/multimedia_projectors/lv/lv_wx320/)
 
-![](/home/florian/Téléchargements/LD0003340451_2.jpg)
+![](LD0003340451_2.jpg)
