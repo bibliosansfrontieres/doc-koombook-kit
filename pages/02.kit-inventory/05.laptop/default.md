@@ -1,4 +1,6 @@
-
+---
+title: 'Laptop'
+---
 ![Dell](dell.png)
 
 Selected laptops that will fit in the flightcases, 2 models are available :

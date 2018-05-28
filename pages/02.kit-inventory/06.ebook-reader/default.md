@@ -1,3 +1,7 @@
+---
+title: 'e-Book reader'
+---
+
 ![Muse](Muse.jpg)
 
 - Provided ebook reader : Bookeen Cybook Muse Light
