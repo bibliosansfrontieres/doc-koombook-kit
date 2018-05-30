@@ -13,4 +13,4 @@ The USB charger is 220V -> 5V converter that is able to charge up to 10 device a
 
 The maximum output intensity from each port is around 2.4A 
 
-Main supplyer : [Abylon](http://www.abylon.fr/)
+Main supplyer : [Abylon](http://www.abylon.fr/) or [LVSUN](http://www.enlvsun.com/Products/120W10PortUSBcharger.html)
