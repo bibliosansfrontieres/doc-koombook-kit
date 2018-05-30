@@ -1,6 +1,7 @@
 ---
-
+title: 'Extend the wifi coverage'
 ---
+
 The built-in wifi hotspot in the KoomBook has limited capability due to hardware design. Indeed, the hardware responsible for the wifi is small and the antenna mesure half centimeter. There is no real alternative for a much better hardware. 
 
 The consequences are : 
