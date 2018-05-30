@@ -2,6 +2,8 @@
 title: 'The KoomBook'
 ---
 
+![](_MG_3187.JPG)
+
 KOOMBOOK: a portable offline/online server: The KoomBook is a battery-operated device that displays videos, documents, images and offline websites using a WiFi hotspot.
 
 It is made of: several piece of hardware to provide, electrical autonomy, storage, wifi capability

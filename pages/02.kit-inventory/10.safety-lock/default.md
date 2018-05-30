@@ -1,1 +1,8 @@
-Le coût d'un antivol est d'environ 45€ / pièce Les antivols sont collés au dos de la tablette, au milieu juste en dessous de la caméra. C'est important car la tablette une fois posé à plat repose sur cette pièce métallique est c'est le meilleur endroit pour qu'elle ne soit pas trop bancale. 
+---
+title: 'Tablet lock'
+---
+![](secuplus-tablet-lock.jpg)
+
+Tablet lock can be use in some "free use" context. The lock is bonded on the tablet rear, right in the middle to ensure we don't have a wobbly tablet once the latter lay on the back
+
+Several brands are available on the market but price is usually expensive: ~ 43€

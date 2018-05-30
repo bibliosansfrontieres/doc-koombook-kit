@@ -12,6 +12,8 @@ The flightcase is build with the POLYTCASE® technology.
 
 source : [J.P'emBall](http://www.jpemball.fr)
 
+![](P1080947.JPG)
+
 We use 4 models to fit our needs with different customization. 
 
 | **Flight-case 1 :**   | panneaux en polycarbonate noir alvéolaire semi-brillant, ossature en profilés aluminium |

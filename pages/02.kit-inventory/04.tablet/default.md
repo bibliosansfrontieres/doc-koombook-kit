@@ -10,4 +10,19 @@ This device has a bluetooth keyboard (either french or US).
 
 Size : 145 x 255 x 10 mm
 
-Each tablet comes with pre-selected configuration and android app. 
+Each tablet comes with pre-selected configuration and dozen of Android app on several thematique such as 
+
+* Information
+  * Health 
+  * Jobs
+* Learn
+  * Programming
+  * Language
+* Creation
+  * Music
+  * Text
+  * Photos
+  * Videos
+  * Draw
+* Play
+* Discover
