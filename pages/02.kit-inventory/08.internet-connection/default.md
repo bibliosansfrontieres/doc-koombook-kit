@@ -27,7 +27,7 @@ The portable (works on battery) version of this device can handle up to 10 users
 
 ### Mobile
 
-![](/home/florian/Documents/12_BSF/Koombook/7_Developpement/1_Git/doc-koombook-kit/pages/02.kit-inventory/08.internet-connection/LD0001441454_2.jpg)
+![](LD0001441454_2.jpg)
 
 We have tested succesfully the [TP-LINK M5360 3G wifi router](https://www.tp-link.com/en/products/details/cat-14_M5360.html) which is a really good product for the KoomBook kit. 
 
@@ -37,7 +37,7 @@ If available, you can use the 4G version : [TP-LINK M7310](https://www.tp-link.c
 
 ### Fixed
 
-![](/home/florian/Documents/12_BSF/Koombook/7_Developpement/1_Git/doc-koombook-kit/pages/02.kit-inventory/08.internet-connection/TL-MR6400_EU_3.0_01_large_1527668512568m.jpg)
+![](TL-MR6400_EU_3.0_01_large_1527668512568m.jpg)
 
 If needed, the fixed version (must be connected to a main power supply 100v/220v)
 
@@ -77,13 +77,13 @@ At least you will have to
 
 ## Landline connexion
 
-![](/home/florian/Documents/12_BSF/Koombook/7_Developpement/1_Git/doc-koombook-kit/pages/02.kit-inventory/08.internet-connection/adsl.jpg)
+![](adsl.jpg)
 
 If available, the landline ADSL Internet connexion can be fast and relayable. However in some country this option can be worst than mobile connexion and must be considered as a plan B
 
 ## Satelitte
 
-![](/home/florian/Documents/12_BSF/Koombook/7_Developpement/1_Git/doc-koombook-kit/pages/02.kit-inventory/08.internet-connection/satelitte.png)
+![](satelitte.png)
 
 In some case the satelitte connexion is the best option as there is nothing around that can provide any Internet connexion. 
 
