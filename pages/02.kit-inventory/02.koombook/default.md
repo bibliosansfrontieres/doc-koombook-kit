@@ -11,7 +11,7 @@ It is made of several pieces of hardware designed to provide electrical autonomy
 - A single-board computer (1Ghz dual core processor and 1GB of RAM) to run an operating system.
 - Linux stored on a SD card and installed on the board.
 - An SSD drive to store data.
-- A Lipo battery charger that automatically regulates the battery charge and ensures the board has enough power s.
+- A Lipo battery charger that automatically regulates the battery charge and ensures the board has enough power.
 - 1 WiFi dongle to create the hot spot
 - 1 WiFi dongle to bridge the KoomBook to an existing WiFi hotspot that is connected to the internet
 
