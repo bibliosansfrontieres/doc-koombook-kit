@@ -4,7 +4,7 @@ title: 'The Flightcase'
 
 The flightcase is built with POLYTCASE® technology.
 
-> The POLYTCASE® is composed of 10 mm thick honeycomb polycarbonate panels instead of the 5 layers of betonnex or laminated plywood traditionally used.
+> The POLYTCASE® is composed of 10mm-thick honeycomb polycarbonate panels instead of the 5 layers of betonnex or laminated plywood traditionally used.
 > Polycarbonate panels are glued in double interlocking aluminum angles. Traditional plywood products are usually simply nailed or stapled. Riveted corners increase the visual appeal of the case. 
 > 
 > POLYTCASES® are also up to 3 times lighter than traditional cases, ensuring savings on transportation, particularly by air.
