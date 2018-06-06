@@ -3,7 +3,6 @@ title: 'Kit Inventory'
 ---
 
 This adaptable kit can contain some or all of the followings materials and tools:
-
 * one KoomBook
 * up to 10 tablets/e-readers
 * several laptops
