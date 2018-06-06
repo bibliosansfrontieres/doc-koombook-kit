@@ -18,7 +18,7 @@ We have four customized models that we use.
 
 | **Flight-case 1:**   | Black, semi-gloss, cellular polycarbonate panels with aluminum frame |
 | --------------------- | ------------------------------------------------------------ |
-| Handles             | 2 embedded handles on sides + 1 telescopic handle + 2 wheels |
+| Transportation            | 2 embedded handles on sides + 1 telescopic handle + 2 wheels |
 | Locks            | 2 butterfly locks on one side (one padlockable) + 2 hinges on other side |
 | Electricity           | 1 power socket (loaded and equipped with electrical connection) to charge KoomBook and tablets in closed position + pre-cut foam |
 | Fits           | 7 to 10 tablets, KoomBook, charging unit, equipment |
@@ -33,7 +33,7 @@ We have four customized models that we use.
 
 | **Flight-case 2:**   | Black, semi-gloss, cellular polycarbonate panels with aluminum frame |
 | --------------------- | ------------------------------------------------------------ |
-| Handles              | 2 embedded handles on sides + 1 telescopic handle + 2 wheels |
+| Transportation             | 2 embedded handles on sides + 1 telescopic handle + 2 wheels |
 | Locks            | 2 butterfly locks on one side (one padlockable) + 2 hinges on other side |
 | Electricity           | 1 power socket (loaded and equipped with electrical connection) to charge KoomBook and tablets in closed position + pre-cut foam |
 | Fits          | 7 to 10 tablets, KoomBook, charging unit, equipment |
@@ -48,7 +48,7 @@ We have four customized models that we use.
 
 | **Flight-case 3:**   | Black, semi-gloss, cellular polycarbonate panels with aluminum frame |
 | --------------------- | ------------------------------------------------------------ |
-| Handles              | 2 embedded handles on sides + 1 telescopic handle + 2 wheels |
+| Transportation              | 2 embedded handles on sides + 1 telescopic handle + 2 wheels |
 | Locks            | 2 butterfly locks on one side (one padlockable) + 2 hinges on other side |
 | Electricity           | 1 power socket (loaded and equipped with electrical connection) to charge KoomBook and tablets in closed position + pre-cut foam |
 | Fits           | 7 to 10 tablets, KoomBook, charging unit, equipment |
