@@ -11,6 +11,7 @@ This adaptable kit can contain some or all of the followings materials and tools
 * a solar kit to extend device battery life
 * an external WiFi antenna to extend WiFi range and allow more users to connect
 * a 3G/4G kit to connect the KoomBook to Internet
+
 The following sections will describe each of these materials.
 
 
