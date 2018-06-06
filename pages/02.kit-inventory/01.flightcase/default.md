@@ -1,29 +1,29 @@
 ---
-title: 'The flightcase'
+title: 'The Flightcase'
 ---
 
-The flightcase is build with the POLYTCASE® technology.
+The flightcase is built with POLYTCASE® technology.
 
-> The POLYTCASE® is composed of 10 mm thick aveolar polycarbonate panels  instead of betonnex 5 layers or laminated plywood colored traditionally  used. 
->
-> Polycarbonate panels are further mounted glued  in double interlocking aluminum angles. Traditional products plywood are most often simply nailed or stapled. Riveted corners have a more  aesthetic role as a reinforcing role. 
->
-> POLYTCASES® are also up to 3 times lighter than traditional cases. Insured savings on any transportation and in  particular by air. 
+> The POLYTCASE® is composed of 10 mm thick honeycomb polycarbonate panels instead of the 5 layers of betonnex or laminated plywood traditionally used.
+> Polycarbonate panels are glued in double interlocking aluminum angles. Traditional plywood products are usually simply nailed or stapled. Riveted corners increase the visual appeal of the case. 
+> 
+> POLYTCASES® are also up to 3 times lighter than traditional cases, ensuring savings on transportation, particularly by air.
+
 
 source : [J.P'emBall](http://www.jpemball.fr)
 
 ![](P1080947.JPG)
 
-We use 4 models to fit our needs with different customization. 
+We have four customized models that we use.  
 
-| **Flight-case 1 :**   | panneaux en polycarbonate noir alvéolaire semi-brillant, ossature en profilés aluminium |
+| **Flight-case 1:**   | Black, semi-gloss, cellular polycarbonate panels with aluminum frame |
 | --------------------- | ------------------------------------------------------------ |
-| poignées              | 2 poignées encastrées + 1 télescopique de surface dédoublante + 2 roulettes d’angle |
-| fermetures            | 2 fermetures papillon encastrées d’un côté dont 1  cadenassable + 2 charnières côté opposé |
-| électricité           | 1 prise courant (fourniture+pose+raccordements électriques) + découpe mousse dans couvercle pour chargement Koombook+tablettes en position fermée |
-| Emplacement           | de 7 à 10 tablettes, du koombook, du module de recharge et du vrac |
-| Dimension intérieures | 45 x 43 x 35 (26+8) cm [Longueur x largeur x Hauteur]        |
-| Weight                | 9 kg (empty) - 16kg (loaded)                                 |
+| Handles             | 2 embedded handles on sides + 1 telescopic handle + 2 wheels |
+| Locks            | 2 butterfly locks on one side (one padlockable) + 2 hinges on other side |
+| Electricity           | 1 power socket (loaded and equipped with electrical connection) to charge KoomBook and tablets in closed position + pre-cut foam |
+| Fits           | 7 to 10 tablets, KoomBook, charging unit, equipment |
+| Interior Dimensions | 45 x 43 x 35 (26+8) cm [length x width x height]        |
+| Weight                | 9 kg (empty) - 16kg (full)                                 |
 
  
 
@@ -31,14 +31,14 @@ We use 4 models to fit our needs with different customization.
 
 
 
-| **Flight-case 2 :**   | panneaux en polycarbonate noir alvéolaire semi-brillant, ossature en profilés aluminium |
+| **Flight-case 2:**   | Black, semi-gloss, cellular polycarbonate panels with aluminum frame |
 | --------------------- | ------------------------------------------------------------ |
-| poignées              | 2 poignées encastrées + 1 télescopique de surface dédoublante + 2 roulettes d’angle |
-| fermetures            | 2 fermetures papillon encastrées d’un côté dont 1  cadenassable + 2 charnières côté opposé |
-| électricité           | 1 prise courant (fourniture+pose+raccordements électriques) + découpe mousse dans couvercle pour chargement Koombook+tablettes en position fermée |
-| Emplacement           | de 7 à 10 tablettes, du koombook, du module de recharge et du vrac |
-| Dimension intérieures | 51 x 43 x 35 (26+8) cm [Longueur x largeur x Hauteur]        |
-| Weight                | 9 kg (empty) - 16kg (loaded)                                 |
+| Handles              | 2 embedded handles on sides + 1 telescopic handle + 2 wheels |
+| Locks            | 2 butterfly locks on one side (one padlockable) + 2 hinges on other side |
+| Electricity           | 1 power socket (loaded and equipped with electrical connection) to charge KoomBook and tablets in closed position + pre-cut foam |
+| Fits          | 7 to 10 tablets, KoomBook, charging unit, equipment |
+| Interior Dimensions | 51 x 43 x 35 (26+8) cm [length x width x height]        |
+| Weight                | 9 kg (empty) - 16kg (full)                                 |
 
   
 
@@ -46,14 +46,14 @@ We use 4 models to fit our needs with different customization.
 
 
 
-| **Flight-case 3 :**   | panneaux en polycarbonate noir alvéolaire semi-brillant, ossature en profilés aluminium |
+| **Flight-case 3:**   | Black, semi-gloss, cellular polycarbonate panels with aluminum frame |
 | --------------------- | ------------------------------------------------------------ |
-| poignées              | 2 poignées encastrées + 1 télescopique de surface dédoublante + 2 roulettes d’angle |
-| fermetures            | 2 fermetures papillon encastrées d’un côté dont 1  cadenassable + 2 charnières côté opposé |
-| électricité           | 1 prise courant (fourniture+pose+raccordements électriques) + découpe mousse dans couvercle pour chargement Koombook+tablettes en position fermée |
-| Emplacement           | de 7 à 10 tablettes, du koombook, du module de recharge et du vrac |
-| Dimension intérieures | 72 x 43 x 35 (26+8) cm [Longueur x largeur x Hauteur]        |
-| Weight                | 14 kg (empty) - 25kg (loaded)                                |
+| Handles              | 2 embedded handles on sides + 1 telescopic handle + 2 wheels |
+| Locks            | 2 butterfly locks on one side (one padlockable) + 2 hinges on other side |
+| Electricity           | 1 power socket (loaded and equipped with electrical connection) to charge KoomBook and tablets in closed position + pre-cut foam |
+| Fits           | 7 to 10 tablets, KoomBook, charging unit, equipment |
+| Interior Dimensions | 72 x 43 x 35 (26+8) cm [length x width x height]        |
+| Weight                | 14 kg (empty) - 25kg (full)                                |
 
   
 
@@ -61,19 +61,19 @@ We use 4 models to fit our needs with different customization.
 
 
 
-| **Flight-case 4 :**   | panneaux en polycarbonate noir alvéolaire semi-brillant, ossature en profilés aluminium |
+| **Flight-case 4 :**   | Black, semi-gloss, cellular polycarbonate panels with aluminum frame |
 | --------------------- | ------------------------------------------------------------ |
-| poignées              | 2 poignées encastrées + 1 télescopique de surface dédoublante + 2 roulettes d’angle |
-| fermetures            | 2 fermetures papillon encastrées d’un côté dont 1  cadenassable + 2 charnières côté opposé |
-| électricité           | 1 prise courant (fourniture+pose+raccordements électriques) + découpe mousse dans couvercle pour chargement Koombook+tablettes en position fermée |
-| Emplacement           | de 15 tablettes, du koombook, 2 modules de recharge, du laptop, du vidéo-projecteur et du vrac |
-| Dimension intérieures | 82 x 43 x 35 (26+8) cm [Longueur x largeur x Hauteur]        |
-| Weight                | 14 kg (empty) - 25kg (loaded)                                |
+| Transportation              | 2 embedded handles on sides + 1 telescopic handle + 2 wheels |
+| Locks            | 2 butterfly locks on one side (one padlockable) + 2 hinges on other side |
+| Electricity and padding           | 1 power socket (loaded and equipped with electrical connection) to charge KoomBook and tablets in closed position + pre-cut foam  |
+| Fits           | 15 tablets, KoomBook, 2 charging units, laptop, video projector, and equipment |
+| Interior Dimensions | 82 x 43 x 35 (26+8) cm [length x width x height]        |
+| Weight                | 14 kg (empty) - 25kg (full)                                |
 
-### Here is the approximative size of the materials :
+### Approximate Size of Materials:
 
-* Tablets : 260x155x20mm
-* Koombook : 230x116x84mm
-* USB charger for 10 tablets : 155x110x38mm
-* Video projector : 270x290x100mm
-* Laptop : 380x270x27mm
+* Tablets: 260x155x20mm
+* Koombook: 230x116x84mm
+* 10-port usb charger: 155x110x38mm
+* Video projector: 270x290x100mm
+* Laptop: 380x270x27mm
