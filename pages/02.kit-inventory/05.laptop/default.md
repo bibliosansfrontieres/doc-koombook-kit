@@ -4,7 +4,7 @@ title: Laptop
 
 ![Dell](dell.png)
 
-We have selected two different models of laptops that will fit in the flight cases:
+We have selected two different models that will fit in the flight cases:
 * With French keyboard:
 
 
