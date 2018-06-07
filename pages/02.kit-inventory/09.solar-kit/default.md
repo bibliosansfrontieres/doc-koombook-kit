@@ -23,7 +23,7 @@ Two solar kits can be used with the KoomBook kit to extend its battery life.
 
 * 20w Foldable Solar Panel with Monocrystalline Silicon Cells
   * 2 USB 5V - 2.1A output
-  * Size: 78x26x0,2cm
+  * Size: 78x26x0.2cm
   * Weight: 590g
 
 
