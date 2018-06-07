@@ -19,7 +19,7 @@ This is a plausible solution because the total weight should not be above 12-15 
 
 The backpack can be any brand, but special attention must be paid to the quality of the material and the protection it provides as it is going to be used to carry electronics. Heavy duty backpacks are best!
 
-SSome backpacks are specially made for electronics, such as this one: 
+Some backpacks are specially made for electronics, such as this one: 
 
 ![](valise-hprc-3500.jpg)
 
