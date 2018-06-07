@@ -2,11 +2,11 @@
 title: Backpack
 ---
 
-The backpack is a great altenative to carry around some part of this kit. As a matter of fact, some remote place are quite hard to be reached by car but by foot the operation can be much more easy. 
+A backpack is a great alternative for carrying around all or part of this kit. As a matter of fact, some remote places are quite hard to reach by car, but relatively easy by foot. 
 
-The total weight should not be above 12-15 Kg
+This is a plausible solution because the total weight should not be above 12-15 Kg.
 
-| Material                                                     | Weight (Kg)    |
+| Resource                                                     | Weight (Kg)    |
 | ------------------------------------------------------------ | -------------- |
 | [1 KoomBook](http://koombook-kit.doc.bibliosansfrontieres.org/kit-inventory/koombook) | 1Kg            |
 | [10 tablets](http://koombook-kit.doc.bibliosansfrontieres.org/kit-inventory/tablet) | 10 x 0.5 = 5Kg |
@@ -17,9 +17,9 @@ The total weight should not be above 12-15 Kg
 | Divers, cable                                                | 0.5Kg          |
 | **Total**                                                    | **~13 Kg**     |
 
-The backpack can be any, but special attention must be made on the quality of the material and also the protection (heavy & duty !), it is goind to carry electronics.
+The backpack can be any brand, but special attention must be paid to the quality of the material and the protection it provides as it is going to be used to carry electronics. Heavy duty backpacks are best!
 
-Some backpack are specially made for this use case, for instance 
+SSome backpacks are specially made for electronics, such as this one: 
 
 ![](valise-hprc-3500.jpg)
 
