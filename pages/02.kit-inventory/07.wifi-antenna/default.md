@@ -13,7 +13,7 @@ As a result:
 
 To overcome these limitations, we can use an external antenna. This hardware performs very well as an autonomous WiFi hotspot and extends the range of the KoomBook.
 
-## Wifi Antenna
+## WiFi Antenna
 
 ![](61K0-3+Vl1L._SL1500_.jpg)
 
