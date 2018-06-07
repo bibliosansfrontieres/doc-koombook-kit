@@ -1,9 +1,5 @@
 ---
-title: 'Alternatives'
-media_order: ''
-body_classes: ''
-order_by: ''
-order_manual: ''
+title: Alternatives
 ---
 
-We can imagine several altenatives to carry around all this stuff
+At the moment, we can imagine a single alternative to the KoomBook kit for transporting these materials.
