@@ -42,7 +42,7 @@ Two solar kits can be used with the KoomBook kit to extend its battery life.
   * Size: 112x60x0.2cm
   * Weight: 1.830kg
 
-* Lithium-Polymer battery 50Ah - 3.7V 185Wh ([Read the manuel](UPB185-manuel.pdf))
+* Lithium-Polymer battery 50Ah - 3.7V 185Wh ([Read the manual](UPB185-manuel.pdf))
   * 2 USB 5V - 3A output
   * 1 TypeC 5V - 3.5A output
   * 1 DC adjustable 5V to 20V output
