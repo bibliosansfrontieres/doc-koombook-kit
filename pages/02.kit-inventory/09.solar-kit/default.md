@@ -49,9 +49,9 @@ Two solar kits can be used with the KoomBook kit to extend its battery life.
   * Size: 19.5x15x2.8cm
   * Weight: 1.155 kg
   * Delivered with:
-    * 1 main supply
-    * 1 DC cable
-    * 24 connectors for different devices
+  	* 1 main supply
+  	* 1 DC cable
+  	* 24 connectors for different devices 
 
 ![](chargeur-solaire-ordinateur.jpg) ![](chargeur-solaire-ordinateur2.jpg) ![](chargeur-solaire-ordinateur3.jpg)
 
