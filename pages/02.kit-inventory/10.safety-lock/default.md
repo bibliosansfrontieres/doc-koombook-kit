@@ -4,6 +4,6 @@ title: 'Tablet Locks'
 
 ![](secuplus-tablet-lock.jpg)
 
-Tablet locks can be use in some "free use" context. The lock is bonded on the tablet rear, right in the middle to ensure we don't have a wobbly tablet once the latter lay on the back
+Tablet locks keep the tablets secure and allow them to be used even when no facilitator is present. The lock is bonded to the rear of the tablet, right in the middle so the tablet doesn’t wobble when laid on its back.
 
-Several brands are available on the market but price is usually expensive: ~ 43€
+Several brands are available on the market but are usually expensive: ~ 43€
