@@ -15,7 +15,7 @@ source : [J.P'emBall](http://www.jpemball.fr)
 
 ![](P1080947.JPG)
 
-![](Flightcase_EN.jpg)
+![](Flightcase_EN.jpg?cropResize=600,600)
 
 We have four customized models that we use.  
 
