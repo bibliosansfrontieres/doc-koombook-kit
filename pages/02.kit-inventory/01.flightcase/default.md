@@ -1,5 +1,6 @@
 ---
 title: 'The Flightcase'
+media_order: 'P1080947.JPG,Flightcase_EN.pdf'
 ---
 
 The flightcase is built with POLYTCASE® technology.
@@ -13,6 +14,8 @@ The flightcase is built with POLYTCASE® technology.
 source : [J.P'emBall](http://www.jpemball.fr)
 
 ![](P1080947.JPG)
+
+![](Flightcase_EN.pdf)
 
 We have four customized models that we use.  
 
