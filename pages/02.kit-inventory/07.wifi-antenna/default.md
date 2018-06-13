@@ -15,7 +15,7 @@ To overcome these limitations, we can use an external antenna. This hardware per
 
 ## WiFi Antenna
 
-![](61K0-3+Vl1L._SL1500_.jpg)
+![](ubiquiti.jpg)
 
 Current WiFi antennas can extend the coverage up to 200m and handle more than 200 simultaneous users. Most of them can operate on 2.4Ghz and 5Ghz. The theoretical data rate is around 300Mbps in 2.4Ghz and 867Mbps in 5Ghz.
 
@@ -23,7 +23,7 @@ The [Ubiquiti UniFi Mesh UAP-AC-M 802.11ac](https://unifi-mesh.ubnt.com/#home) o
 
 This product operates as a mesh network with several antennas connected to each other through a "cloud key" which plays the role of the main controller. 
 
-For basic needs, one antenna is often enough.  In this case, the system can be configured with a simple [Android application](https://play.google.com/store/apps/details?id=com.ubnt.easyunifi), eliminating the need for a cloud key controller. 
+For basic needs, one antenna is often enough.  In this case, the system can be configured with a simple [Android application](https://play.google.com/store/apps/details?id=com.ubnt.easyunifi&noprocess), eliminating the need for a cloud key controller. 
 
 The Android application has limited features and the only settings available are:
 
