@@ -1,5 +1,6 @@
 ---
 title: 'Extendable WiFi Coverage'
+media_order: 'IMG_3216.JPG,ubiquiti.jpg,unifi.png'
 ---
 
 The built-in WiFi hotspot in the KoomBook has limited capability due to its hardware design. The hardware responsible for the WiFi is small and the antenna is only a half centimeter long. There are no significantly better alternatives at the moment.
@@ -24,6 +25,8 @@ The [Ubiquiti UniFi Mesh UAP-AC-M 802.11ac](https://unifi-mesh.ubnt.com/#home) o
 This product operates as a mesh network with several antennas connected to each other through a "cloud key" which plays the role of the main controller. 
 
 For basic needs, one antenna is often enough.  In this case, the system can be configured with a simple [Android application](https://play.google.com/store/apps/details?id=com.ubnt.easyunifi&noprocess), eliminating the need for a cloud key controller. 
+
+![](unifi.png?cropResize=400,400)
 
 The Android application has limited features and the only settings available are:
 
