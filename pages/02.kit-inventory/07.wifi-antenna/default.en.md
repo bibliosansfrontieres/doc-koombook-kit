@@ -48,7 +48,7 @@ The KoomBook software has been designed to work with an external antenna and the
 The KoomBook can be configured [two different ways](https://github.com/ideascube/ansiblecube/blob/oneUpdateFile/roles/network-manager/files/add-IP-address-for-external-antenna.sh) depending on the location and context:
 
 * Option 1: The KoomBook is connected to a local Ethernet network with a router and maybe an Internet connection. In this case, the KoomBook: 
-  * switches to dynamique IP
+  * switches to dynamic IP
   * receives an IP address from the local DHCP server
   * is ready to communicate with the rest of the world
 * Option 2: The KoomBook is connected to the WiFi antenna. In this case, the KoomBook: 
