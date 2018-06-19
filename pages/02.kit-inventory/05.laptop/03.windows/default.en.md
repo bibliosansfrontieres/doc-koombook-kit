@@ -18,6 +18,7 @@ The principal session is the `ideasbox` session.  It gives you administrative ri
 
 ## Programs and Software
 
+
 Just like with Ubuntu, a selection of programs are installed.
 
 They include: vlc, skype, firefox, chrome, 7zip, teamviewer, blender, freecad, gimp, libreoffice, scratch, tuxpaint, sumatrapdf, flashplayer, audacity, calibre, dotnetfx , freemind , inkscape, picasa, scribus, sketchup et xmind.
