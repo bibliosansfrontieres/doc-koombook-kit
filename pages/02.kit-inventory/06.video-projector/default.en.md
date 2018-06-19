@@ -2,7 +2,7 @@
 title: 'Video Projector'
 ---
 
-Depending on your needs, two types of video-projectors are available:
+There are two types of video projectors available depending on your needs.
 
 ## Light & Portable
 
