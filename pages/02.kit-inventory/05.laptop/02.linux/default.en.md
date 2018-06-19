@@ -35,7 +35,7 @@ To login to an Ideas Box session, use the username `ideascube`.  BSF will send t
 
 ### `Admin` Sessions
 
-**`Admin` Sessions** can be used for the administration and maintenance of the system. This is the only session the gives administrative rights, and thus the only one that permits you to add or delete software or programs, change the network configuration, and edit other system components.
+**`Admin` Sessions** can be used for the administration and maintenance of the system. This is the only session with administrative rights, and thus the only one that permits you to add or delete software or programs, change the network configuration, and edit other system components.
 
 It is only used by technicians, in case problems arrive.
 
