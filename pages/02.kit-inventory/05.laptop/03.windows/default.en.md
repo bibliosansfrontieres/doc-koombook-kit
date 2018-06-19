@@ -2,7 +2,7 @@
 title: Windows
 ---
 
-Although proprietary, this operating system is widely used, as it deserves to be.  Certain applications do not exist on Linux, particularly games.
+Although proprietary, this operating system is widely used, as it deserves to be.  There are certain applications that Windows can rut that do not exist on Linux, particularly games.
 
 ## Installation
 
