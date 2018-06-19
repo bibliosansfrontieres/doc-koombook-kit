@@ -29,7 +29,7 @@ Among other characteristics, these sessions have amnesia: once opened, it is a c
 
 **`Ideas Box` Sessions** serve as a model for guest sessions.
 
-Any customizations made in an Ideas Box session will be replicated in the guest session model, such as wallpaper or shortcuts.  Thus, Ideas Box sessions are not meant to be used daily.
+Any customizations, such as wallpaper or shortcuts, made in an Ideas Box session will be replicated in the guest session model. Thus, Ideas Box sessions are not meant to be used daily.
 
 To login to an Ideas Box session, use the username `ideascube`.  BSF will send the password to you upon request.
 
