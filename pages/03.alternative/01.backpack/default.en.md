@@ -8,13 +8,13 @@ This is a plausible solution because the total weight should not be above 12-15 
 
 | Resource                                                     | Weight (Kg)    |
 | ------------------------------------------------------------ | -------------- |
-| [1 KoomBook](http://koombook-kit.doc.bibliosansfrontieres.org/kit-inventory/koombook) | 1Kg            |
-| [10 tablets](http://koombook-kit.doc.bibliosansfrontieres.org/kit-inventory/tablet) | 10 x 0.5 = 5Kg |
-| [1 solar kit](http://koombook-kit.doc.bibliosansfrontieres.org/kit-inventory/solar-kit) | 2Kg            |
-| [1 pico video projector](http://koombook-kit.doc.bibliosansfrontieres.org/kit-inventory/video-projector) | 0.5Kg          |
-| [1 USB charger (10 ports)](http://koombook-kit.doc.bibliosansfrontieres.org/kit-inventory/usb-charger) | 0.5Kg          |
-| [1 backpack](http://www.abylon.fr/valise-etanche-hprc/166-valise-hprc-3500.html) | 3.5Kg          |
-| Divers, cable                                                | 0.5Kg          |
+| [1 KoomBook](http://koombook-kit.doc.bibliosansfrontieres.org/kit-inventory/koombook) | 1 Kg            |
+| [10 tablets](http://koombook-kit.doc.bibliosansfrontieres.org/kit-inventory/tablet) | 10 x 0.5 = 5 Kg |
+| [1 solar kit](http://koombook-kit.doc.bibliosansfrontieres.org/kit-inventory/solar-kit) | 2 Kg            |
+| [1 pico video projector](http://koombook-kit.doc.bibliosansfrontieres.org/kit-inventory/video-projector) | 0.5 Kg          |
+| [1 USB charger (10 ports)](http://koombook-kit.doc.bibliosansfrontieres.org/kit-inventory/usb-charger) | 0.5 Kg          |
+| [1 backpack](http://www.abylon.fr/valise-etanche-hprc/166-valise-hprc-3500.html) | 3.5 Kg          |
+| Divers, cable                                                | 0.5 Kg          |
 | **Total**                                                    | **~13 Kg**     |
 
 The backpack can be any brand, but special attention must be paid to the quality of the material and the protection it provides as it is going to be used to carry electronics. Heavy duty backpacks are best!
