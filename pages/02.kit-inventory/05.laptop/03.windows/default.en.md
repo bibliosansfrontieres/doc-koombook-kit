@@ -14,10 +14,9 @@ The configuration is easily customizable (wallpaper, etc...), and programs are a
 
 The principal session is the `ideasbox` session.  It gives you administrative rights.
 
-<to be completed>
+{to be completed}
 
 ## Programs and Software
-
 
 Just like with Ubuntu, a selection of programs are installed.
 
