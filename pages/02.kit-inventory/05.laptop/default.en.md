@@ -10,7 +10,7 @@ We deliver them with two operating systems, **Windows** and **Linux/Ubuntu**.
 
 Linux is an operating system, just like Windows or MacOS X.  It lets you work like you do with Windows, but it functions differently.
 
-We have the habit of saying that Linux is an operating system.  But in reality, Linux is only the heart (or the "core") of the operating system GNU/Linux.  (The operating systems Microsoft Windows NT, 2000, and XP also have a "core", but it's different: NT).
+While we are in the habit of saying that Linux is an operating system, it is actually only the heart (or "core") of the operating system GNU/Linux. (The operating systems Microsoft Windows NT, 2000, and XP also have a "core", but it's different: NT).
 
 The core does the dirty work: manages the memory, access to peripherals (hard disk, CD-Rom reader, keyboard, mouse, graphics card), network management, dividing microprocesser time among programs (multi-tasking), etc...
 Unlike Windows, where you have no choice about the graphical interface, there are several different graphic interfaces under Linux.  The main ones are Gnome, KDE, and XFCE.  It is even possible to use Linux without a graphic interface, or even only use a graphic interface when you want to.
