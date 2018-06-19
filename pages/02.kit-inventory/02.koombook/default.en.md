@@ -25,4 +25,4 @@ It is made of several pieces of hardware designed to provide electrical autonomy
 - When the KoomBook is connected to the internet, it uploads all locally created content to the cloud.
 
 
-[Build a KoomBook on your own](http://assemblage-koombook.doc.bibliosansfrontieres.org/fr)
+[DIY Instructions for Building a KoomBook](http://assemblage-koombook.doc.bibliosansfrontieres.org/fr)
