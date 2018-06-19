@@ -1,27 +1,25 @@
 ---
-title: 'Windows'
+title: Windows
 ---
 
-
-Bien que privateur, ce système d'exploitation est largement utilisé et mérite tout autant qu'on se l'approprie. Certaines applications n'existent pas sous Linux, en particulier les jeux.
+Although proprietary, this operating system is widely used, as it deserves to be.  Certain applications do not exist on Linux, particularly games.
 
 ## Installation
 
-Les ordinateurs sont pré-installés avec Windows.
+The computers are pre-installed with Windows.  
 
-La configuration en est légèrement personnalisée (fond d'écran, ...), et des logiciels sont installés.
+The configuration is easily customizable (wallpaper, etc...), and programs are already installed.
 
+## User Accounts
 
-## Comptes utilisateurs
+The principal session is the `ideasbox` session.  It gives you administrative rights.
 
-La session principale est la session `ideasbox`. Elle dispose des droits administrateur.
+<to be completed>
 
-<à compléter>
+## Programs and Software
 
-## Les logiciels
+Just like with Ubuntu, a selection of programs are installed.
 
-Tout comme sous Ubuntu, une sélection de logiciels sont installés.
+They include: vlc, skype, firefox, chrome, 7zip, teamviewer, blender, freecad, gimp, libreoffice, scratch, tuxpaint, sumatrapdf, flashplayer, audacity, calibre, dotnetfx , freemind , inkscape, picasa, scribus, sketchup et xmind.
 
-Parmi eux : vlc, skype, firefox, chrome, 7zip, teamviewer, blender, freecad, gimp, libreoffice, scratch, tuxpaint, sumatrapdf, flashplayer, audacity, calibre, dotnetfx , freemind , inkscape, picasa, scribus, sketchup et xmind.
-
-Nous nous efforçons de supprimer les logiciels pré-installés en version d'essai, celle-ci venant de toute façon à expirer assez rapidement.
+We try to remove applications that are installed as trial versions, as they will expire quickly anyway.
