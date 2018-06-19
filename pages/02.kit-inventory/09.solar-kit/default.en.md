@@ -15,7 +15,7 @@ Two solar kits can be used with the KoomBook kit to extend its battery life.
 | Can we charge the battery while recharging a connected device? | No | No |
 | How many devices can be charged at the same time? | 1 (1.3 A max), otherwise intensity drops | 2 USB, 1 DC-OUT, 1 TYPE-C |
 | Max output power from solar panel | 5.5 V | 19 V |
-| Max output intensity from solar panel | 2.1A, but power drops quickly | 3 A |
+| Max output intensity from solar panel | 2.1 A, but power drops quickly | 3 A |
 | Max output power from battery | 5.2 V fully charged | 5.3 V  (USB), 20 V DC OUT |
 | Max output intensity from battery | 1.6 A on 1 USB port | 4 A under 20 V |
 
