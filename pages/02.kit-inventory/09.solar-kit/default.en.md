@@ -20,7 +20,6 @@ Two solar kits can be used with the KoomBook kit to extend its battery life.
 | Max output intensity from battery | 1.6 A on 1 USB port | 4 A under 20 V |
 
 ### 20-W Solar Panel
-
 * 20-W Foldable Solar Panel with Monocrystalline Silicon Cells
   * 2 USB 5 V - 2.1 A output
   * Size: 78 x 26 x 0.2 cm
