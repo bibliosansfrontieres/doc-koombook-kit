@@ -56,6 +56,6 @@ We also added the Tor browser (to surf the web anonymously), as well as Skype.
 
 ## Administration
 
-To proceed to the administration of the system, you must first of all contact BSF to put in place a dedicated account.  This account is not created automatically because it is rarely needed.  However, on some projects that have the necessary resources, having this account is a plus.
+To proceed to system administration, you must first of all contact BSF to put in place a dedicated account.  This account is not created automatically because it is rarely needed.  However, on some projects that have the necessary resources, having this account is a plus.
 
 By default, Ubuntu automatically downloads and applies security updates.
