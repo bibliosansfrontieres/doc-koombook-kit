@@ -12,7 +12,7 @@ Linux is an operating system, just like Windows or MacOS X.  It lets you work li
 
 While we are in the habit of saying that Linux is an operating system, it is actually only the heart (or "core") of the operating system GNU/Linux. (The operating systems Microsoft Windows NT, 2000, and XP also have a "core", but it's different: NT).
 
-The core does the dirty work: manages the memory, access to peripherals (hard disk, CD-Rom reader, keyboard, mouse, graphics card), network management, dividing microprocesser time among programs (multi-tasking), etc...
+The core does the dirty work, managing the memory, access to peripherals (hard disk, CD-Rom reader, keyboard, mouse, graphics card), network, and multitasking (dividing microprocessor time among programs), among other things.
 Unlike Windows, where you have no choice about the graphical interface, there are several different graphic interfaces under Linux.  The main ones are Gnome, KDE, and XFCE.  It is even possible to use Linux without a graphic interface, or even only use a graphic interface when you want to.
 
 GNU/Linux is free to reuse, and various companies have taken over and completed it in order to come up with an operating system to their own liking.  This is called "distributions".
