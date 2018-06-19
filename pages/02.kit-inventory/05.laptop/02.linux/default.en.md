@@ -4,7 +4,7 @@ title: 'Ubuntu Linux'
 
 ## Ubuntu
 
-Ubuntu can be defined as a user-friendly Linux distribution with a "simple, intuitive, and secure" interface.
+Ubuntu is a user-friendly Linux distribution with a "simple, intuitive, and secure" interface.
 
 By default, the computer starts up using Ubuntu.
 
@@ -21,48 +21,41 @@ There are three types of user sessions.
 
 ### Guest Sessions
 
+**Guest sessions** are designed for users.
 
-### La session invité
+Among other characteristics, these sessions have amnesia: once opened, it is a completely new session, recreated based on a model, and the session is erased once it is closed.  Because of this, we don't have to wory about potential information and data left by each user, such as personal documents or log-in information for websites.
 
-**La session invité** est destinée aux utilisateurs.
+### `Ideas Box` Sessions
 
-Parmi ses caractéristiques, cette session est amnésique : à l'ouverture de session, c'est une session toute neuve qui est recréée d'après un modèle, et elle est effacée dès sa fermeture. Cela permet de ne pas avoir à se soucier des éventuelles informations laissées par chaque utilisateur (documents personnels, connexions aux comptes sur des sites web, ...).
+**`Ideas Box` Sessions** serve as a model for guest sessions.
 
-### La session `ideasbox`
+Any customizations made in an Ideas Box session will be replicated in the guest session model, such as wallpaper or shortcuts.  Thus, Ideas Box sessions are not meant to be used daily.
 
-**La session `ideasbox`** est celle qui sert de modèle à la session `invité`.
+To login to an Ideas Box session, use the username `ideascube`.  BSF will send the password to you upon request.
 
-Toutes les personnalisations qui y seront effectuées se verront répliquées dans la session `invité` : fond d'écran, raccourcis, etc.
+### `Admin` Sessions
 
-Elle n'est donc pas à utiliser au quotidien.
+**`Admin` Sessions** can be used for the administration and maintenance of the system. This is the only session the gives administrative rights, and thus the only one that permits you to add or delete software or programs, change the network configuration, and edit other system components.
 
-Le login est `ideascube`, le mot de passe est communiqué à la demande par BSF.
+It is only used by technicians, in case problems arrive.
 
-### La session `Admin`
+Le login name is `bsfadmins`, but we prefer to create a dedicated session for the local technician.  The BSF technicians' SSH keys remain present in the root account.  If they are deleted, no support can be provided.
 
-**La session `Admin`** sert à l'administration et l'entretien du système. C'est la seule session qui dispose des droits administrateurs, permettant ainsi d'ajouter ou supprimer des logiciels, intervenir sur la configuration réseau et toute autre composante du système.
+### See Also
 
-Elle n'est utilisée que par des techniciens, en cas de problème.
+  * [Script to create accounts](https://github.com/bibliosansfrontieres/idbuntu/blob/master/roles/users/tasks/main.yml)
+  * [Customization of  guest sessions](https://help.ubuntu.com/community/CustomizeGuestSession) on the Ubuntu Wiki
 
-Le login est `bsfadmins`, mais on préfère créer une session dédiée pour le technicien local. Les clés SSH des techniciens BSF restent présentes dans le compte root ; si elles sont supprimées, aucun support ne peut alors être fourni.
+## The Programs
 
-### Voir aussi
+The list of programs generally installed appear in [the playbook](https://github.com/bibliosansfrontieres/idbuntu/blob/master/roles/software/tasks/main.yml).
 
-  * [Script de création des comptes](https://github.com/bibliosansfrontieres/idbuntu/blob/master/roles/users/tasks/main.yml)
-  * [Personnalisation de la session invité](https://help.ubuntu.com/community/CustomizeGuestSession) sur le wiki Ubuntu (en anglais)
+These include office, image creation, video editing, photo retouching, music editing and publishing, programming, discovering, and gaming programs.
 
-## Les logiciels
-
-La liste des logiciels généralement installés figure dans [le playbook](https://github.com/bibliosansfrontieres/idbuntu/blob/master/roles/software/tasks/main.yml).
-
-Y figurent des logiciels de bureautique, création d'image, montage vidéo, retouche photo, édition musicale, programmation, découverte, mais aussi des jeux.
-
-On y ajoute également le Tor browser (pour surfer anonymement sur le web), mais aussi Skype.
+We also added the Tor browser (to surf the web anonymously), as well as Skype.
 
 ## Administration
 
-Pour procéder à l'administration du système, il faudra tout d'abord se mettre en rapport avec BSF pour la mise en place d'un compte dédié. Ce compte n'est pas systématiquement créé car les besoins sont rares. Cependant, sur certains projets disposant des ressources nécessaires, un tel compte sera un plus.
+To proceed to the administration of the system, you must first of all contact BSF to put in place a dedicated account.  This account is not created automatically because it is rarely needed.  However, on some projects that have the necessary resources, having this account is a plus.
 
-Par défaut, Ubuntu télécharge et applique automatiquement les mises à jour de sécurité.
-
-
+By default, Ubuntu automatically downloads and applies security updates.
