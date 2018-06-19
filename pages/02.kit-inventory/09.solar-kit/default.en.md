@@ -4,10 +4,10 @@ title: 'Solar Panels'
 
 Two solar kits can be used with the KoomBook kit to extend its battery life.
 
-* The 20w kit is designed specifically to extend the battery life of the KoomBook
-* The 65w kit can extend the battery life of the KoomBook plus 3 or 4 tablets
+* The 20W kit is designed specifically to extend the battery life of the KoomBook
+* The 65W kit can extend the battery life of the KoomBook plus 3 or 4 tablets
 
-|  | 20w kit | 65w kit |
+|  | 20W kit | 65W kit |
 | :---- | :--- | :--- |
 | Can we charge the battery from an outlet (220v/110v)? | yes, with a USB charger | yes, provided with kit |
 | Charging time through main power | around 6 hours | around 6 hours |
@@ -19,9 +19,9 @@ Two solar kits can be used with the KoomBook kit to extend its battery life.
 | Max output power from battery | 5.2V fully charged | 5.3V  (USB), 20V DC OUT |
 | Max output intensity from battery | 1.6A on 1 USB port | 4A under 20V |
 
-### 20w Solar Panel
+### 20W Solar Panel
 
-* 20w Foldable Solar Panel with Monocrystalline Silicon Cells
+* 20W Foldable Solar Panel with Monocrystalline Silicon Cells
   * 2 USB 5V - 2.1A output
   * Size: 78x26x0.2cm
   * Weight: 590g
@@ -34,19 +34,19 @@ Two solar kits can be used with the KoomBook kit to extend its battery life.
 
 ![](chargeur-solaire-appareil-photo-video.jpg)  ![](chargeur-solaire-appareil-photo-video2.jpg)
 
-### 65w Solar Kit
+### 65W Solar Kit
 
-* 65w Foldable Solar Panel with Monocrystalline Silicon Cells
+* 65W Foldable Solar Panel with Monocrystalline Silicon Cells
   * 1 USB 5V 2.1A output
   * 1 DC 15V 4.33A output
   * Size: 112x60x0.2cm
   * Weight: 1.830kg
 
-* Lithium-Polymer battery 50Ah - 3.7V 185Wh ([Read the manual](UPB185-manuel.pdf))
+* Lithium-Polymer battery 50Ah - 3.7V 185Wh ([See the manual](UPB185-manuel.pdf))
   * 2 USB 5V - 3A output
   * 1 TypeC 5V - 3.5A output
   * 1 DC adjustable 5V to 20V output
-  * Size: 19.5x15x2.8cm
+  * Size: 19.5 x 15 x 2.8cm
   * Weight: 1.155 kg
   * Delivered with: 1 main supply, 1 DC cable, 24 connectors for different devices		
 
