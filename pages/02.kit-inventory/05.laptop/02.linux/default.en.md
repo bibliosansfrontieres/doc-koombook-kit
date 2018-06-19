@@ -23,7 +23,7 @@ There are three types of user sessions.
 
 **Guest sessions** are designed for users.
 
-Among other characteristics, these sessions have amnesia: once opened, it is a completely new session, recreated based on a model, and the session is erased once it is closed.  Because of this, we don't have to wory about potential information and data left by each user, such as personal documents or log-in information for websites.
+Among other characteristics, these sessions have amnesia: once opened, it is a completely new session, recreated based on a model, and the session is erased once it is closed.  Because of this, we don't have to worry about potential information left by each user, such as personal documents or log-in information for websites.
 
 ### `Ideas Box` Sessions
 
