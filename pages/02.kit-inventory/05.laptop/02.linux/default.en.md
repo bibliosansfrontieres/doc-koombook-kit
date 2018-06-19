@@ -1,5 +1,5 @@
 ---
-title: 'Ubuntu Linux'
+title: 'Linux Ubuntu'
 ---
 
 ## Ubuntu
