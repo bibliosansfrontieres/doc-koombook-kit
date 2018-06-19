@@ -15,7 +15,7 @@ While we are in the habit of saying that Linux is an operating system, it is act
 The core does the dirty work, managing the memory, access to peripherals (hard disk, CD-Rom reader, keyboard, mouse, graphics card), network, and multitasking (dividing microprocessor time among programs), among other things.
 Unlike Windows, where you have no choice about the graphical interface, there are several different graphic interfaces under Linux.  The main ones are Gnome, KDE, and XFCE.  It is even possible to use Linux without a graphic interface, or even only use a graphic interface when you want to.
 
-GNU/Linux is free to reuse, and various companies have taken over and completed it in order to come up with an operating system to their own liking.  These are called "distributions".
+GNU/Linux is free to reuse, and various companies have adapted and recreated it in order to come up with an operating system to their own liking.  These are called "distributions".
 
 Among the most well-known distributions are Ubuntu, Fedora, Debian, and Suse.
 
