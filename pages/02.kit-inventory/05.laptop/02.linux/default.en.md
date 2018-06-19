@@ -39,7 +39,7 @@ To login to an Ideas Box session, use the username `ideascube`.  BSF will send t
 
 It is only used by technicians, in case problems arise.
 
-Le login name is `bsfadmins`, but we prefer to create a dedicated session for the local technician.  The BSF technicians' SSH keys remain present in the root account.  If they are deleted, no support can be provided.
+The login name is `bsfadmins`, but we prefer to create a dedicated session for the local technician.  The BSF technicians' SSH keys remain present in the root account.  If they are deleted, no support can be provided.
 
 ### See Also
 
