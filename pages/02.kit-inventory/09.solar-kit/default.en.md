@@ -10,7 +10,7 @@ Two solar kits can be used with the KoomBook kit to extend its battery life.
 |  | 20-W kit | 65-W kit |
 | :---- | :--- | :--- |
 | Can we charge the battery from an outlet (220 v /110 v)? | yes, with a USB charger | yes, provided with kit |
-| Charging time through main power | around 6 hours | around 6 hours |
+| Charging time through main power | around 6 hours | around 4 hours |
 | Charging time through solar panel | around 6 hours, depending on sun coverage | N/A |
 | Can we charge the battery while recharging a connected device? | No | No |
 | How many devices can be charged at the same time? | 1 (1.3 A max), otherwise intensity drops | 2 USB, 1 DC-OUT, 1 TYPE-C |
