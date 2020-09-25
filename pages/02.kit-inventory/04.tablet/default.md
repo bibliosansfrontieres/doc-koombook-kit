@@ -2,13 +2,11 @@
 title: Tablets
 ---
 
-![Danew](danew-Dslide-1015-tablette-Android-5-1-Lollipop-8-Go-10-1.jpg)
+![Samsung](samsung-taba.png)
 
-Selected device: danew Dslide 1015 - tablet - Android 5.1 (Lollipop) - 8 Go - 10.1"
+Selected device: Galaxy Tab A 10.1 tablet - Android  - 32 Go - 10.1
 
-This device has a Bluetooth keyboard (either French or US).
-
-Size: 145 x 255 x 10 mm
+Size: 245.2 x 149.4 x 7.5 mm
 
 Each tablet comes with pre-selected configuration and dozens of Android apps centered on several themes including:
 

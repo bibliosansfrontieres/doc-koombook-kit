@@ -1,28 +1,15 @@
 ---
-title: 'The KoomBook'
+title: 'The Ideascube'
 ---
 
 ![](_MG_3187.JPG)
 
-The KoomBook is a portable, battery-operated server that displays videos, documents, images and offline websites using a WiFi hotspot.
-
-It is made of several pieces of hardware designed to provide electrical autonomy, storage, and WiFi capability:
-
-- A single-board computer (1Ghz dual core processor and 1GB of RAM) to run an operating system.
-- Linux stored on a SD card and installed on the board.
-- An SSD drive to store data.
-- A Lipo battery charger that automatically regulates the battery charge and ensures the board has enough power.
-- 1 WiFi dongle to create the hot spot
-- 1 WiFi dongle to bridge the KoomBook to an existing WiFi hotspot that is connected to the internet
-
+The [Ideascube](http://ideascube-hardware.doc.bibliosansfrontieres.org/en) is a portable, battery-operated server that displays videos, documents, images and offline websites using a WiFi hotspot.
 
 **How It Works**
 
-- The KoomBook emits a close-range WiFi signal (up to 50m).
+- The Ideascube emits a close-range WiFi signal (up to 50m).
 - Users can connect to the WiFi with a wide range of devices including telephones, tablets or computers.
 - Users can use any existing web browser to easily navigate the server ([see IdeasCube](http://ideascube.doc.bibliosansfrontieres.org/en))
 - Users can browse and download content as well as share their own .
-- When the KoomBook is connected to the internet, it uploads all locally created content to the cloud.
-
-
-[DIY Instructions for Building a KoomBook](http://assemblage-koombook.doc.bibliosansfrontieres.org/fr)
+- When the Ideascube is connected to the internet, it uploads all locally created content to the cloud.
