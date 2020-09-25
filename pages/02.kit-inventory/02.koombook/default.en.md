@@ -2,7 +2,7 @@
 title: 'The Ideascube'
 ---
 
-![](_MG_3187.JPG)
+![Ideascube](http://doc.bibliosansfrontieres.org/user/pages/02.cards/hardware/ideascube-hardware/CMAL100_430_1.jpg)
 
 The [Ideascube](http://ideascube-hardware.doc.bibliosansfrontieres.org/en) is a portable, battery-operated server that displays videos, documents, images and offline websites using a WiFi hotspot.
 
